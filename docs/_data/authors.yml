@@ -2,7 +2,7 @@
 
 huan:
   name: "Huan (李卓桓)"
-  bio: "💬 CS Ph.D Student Major in Conversational AI. Active Angel Investor, Serial Entrepreneur, Microsoft AI MVP, Google ML GDE."
+  bio: "Tencent TVP of Chatbot. Expert in Conversational AI 💬"
   avatar: "https://avatars1.githubusercontent.com/u/1361891?s=460&v=4"
   membership: chair
   links:
@@ -106,7 +106,7 @@ windmemory:
   name: "高原"
   bio: "句子互动联合创始人，前Amazon，Expedia工程师，北邮计算机本科，马里兰大学硕士，Wechaty contributor，wechaty-puppet-padpro author & maintainer."
   avatar: "https://avatars1.githubusercontent.com/u/6801292"
-  membership: member
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -158,7 +158,7 @@ misska1:
   name: "彭骏"
   bio: "清华能动2016届在读，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。Rebo项目负责代码实现和调试。"
   avatar: "https://avatars1.githubusercontent.com/u/22286006"
-  membership: member
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -198,7 +198,7 @@ jeffzhu76:
   name: "朱跃峰"
   bio: "联络易创始人&CEO。联络易为企业提供SCRM解决方案。"
   avatar: "https://avatars1.githubusercontent.com/u/53548796"
-  membership: member
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -228,7 +228,7 @@ andrewdyhhub:
   name: "丁煜恒"
   bio: "微软公司创新技术合作事业部解决方案架构师，微软中国Conversational AI布道师。"
   avatar: "https://avatars1.githubusercontent.com/u/13727350"
-  membership: member
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -269,3 +269,79 @@ burgerli:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/burgerli"
+
+zhengxuanr:
+  name: "郑譞"
+  bio: "伽利略资本-董事总经理，喜欢发呆的早期投资人:)"
+  avatar: "https://avatars0.githubusercontent.com/u/20353290?s=460&amp;v=4"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhengxuanr"
+
+xiaoda99:
+  name: "肖达"
+  bio: "北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动"
+  avatar: "https://avatars1.githubusercontent.com/u/6015633?s=460&v=4"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xiaoda99"
+
+caq:
+  name: "崔安颀"
+  bio: "薄言RSVP.ai联合创始人、AI负责人、北京分公司负责人。清华大学博士，研究方向为情感计算、统计数据挖掘、自然语言处理等。"
+  avatar: "https://avatars1.githubusercontent.com/u/1644773?s=460&v=4"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xiaoda99"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/anqi-cui-8965318"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:caq+bot5@caq9.info"
+
+23LuZ:
+  name: "张璐"
+  bio: "北科研究生，研究方向为闲聊机器人及闲聊机器人的评价"
+  avatar: "https://avatars3.githubusercontent.com/u/44162178?s=460&v=4"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/23LuZ"
+
+Xiaomei-Zhang:
+  name: "张晓梅"
+  bio: "伽信智能科技CTO"
+  avatar: "https://avatars2.githubusercontent.com/u/7217717"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Xiaomei-Zhang"
+
+BrikerMan:
+  name: "Eliyar Eziz (艾力)"
+  bio: "AI Specialist, Google ML GDE. Love NLP, Love Python."
+  avatar: "https://avatars0.githubusercontent.com/u/9368907"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BrikerMan"
+
+likai:
+  name: "likai (李恺)"
+  bio: "无二之旅研发总监，资深后端开发工程师"
+  avatar: "https://avatars0.githubusercontent.com/u/1356974"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tlikai"
